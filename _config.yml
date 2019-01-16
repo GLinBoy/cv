@@ -1,8 +1,8 @@
 # Site settings
 title: Hojjat Abedi's CV
 description: Hojjat Abedi's CV
-baseurl: https://glinboy.com
-url: https://glinboy.com
+baseurl: https://glinboy.com/cv
+url: https://glinboy.com/cv
 favicon: /assets/img/avatar.JPG
 rss_url: /pages/atom.xml
 google_analytics: UA-15495320-5
